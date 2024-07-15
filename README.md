@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **smitrpatel.tech@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zGxIeUurw5-j3gDLNmDp_-eCETgc4CLI/](https://drive.google.com/file/d/1zGxIeUurw5-j3gDLNmDp_-eCETgc4CLI/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/smit-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smit-in" height="30" width="40" /></a>
