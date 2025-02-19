@@ -14,7 +14,7 @@
 <<<<<<< HEAD
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zGxIeUurw5-j3gDLNmDp_-eCETgc4CLI/](https://drive.google.com/file/d/1zGxIeUurw5-j3gDLNmDp_-eCETgc4CLI/)
 =======
-- 📫 How to reach me **smitrpatel.tech@gmail.com**
+- 📫 How to reach me **patelsmit.tech@gmail.com**
 >>>>>>> 2bedb16c4a4b8c885d9fa1e0046a25d65e1ffc96
 
 <h3 align="left">Connect with me:</h3>
