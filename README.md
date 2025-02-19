@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Full-stack development, React, Node.js, Python, and innovative web solutions.**
 
-- 📫 How to reach me **smitrpatel.tech@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zGxIeUurw5-j3gDLNmDp_-eCETgc4CLI/](https://drive.google.com/file/d/1zGxIeUurw5-j3gDLNmDp_-eCETgc4CLI/)
 
 <h3 align="left">Connect with me:</h3>
